@@ -1,2 +1,2 @@
 # Chess
-This has all the info for the chess game currently in progress
+Chess is a fundemental game of mental processes. Currently the game is in progress and still needs work
